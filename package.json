@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "utila": "~0.4",
-    "renderkid": "^2.0.1"
+    "renderkid": "campspot/renderkid#campspot-node-4"
   },
   "devDependencies": {
     "coffee-script": "~1.8.0",
