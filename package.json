@@ -17,8 +17,8 @@
     "prepublish": "npm run compile"
   },
   "dependencies": {
-    "utila": "~0.4",
-    "renderkid": "campspot/renderkid#campspot-node-4"
+    "utila": "0.4",
+    "renderkid": "2.0.5"
   },
   "devDependencies": {
     "coffee-script": "~1.8.0",
